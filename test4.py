@@ -1,5 +1,4 @@
-pip install aiohttp
-pip install aiohttp aiohttp-socks
+
 import asyncio
 import statistics
 import time
